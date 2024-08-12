@@ -6,7 +6,7 @@
 My Socials:
 1. Facebook: https://www.facebook.com/vampire.op.10
 2. Instagram: https://www.instagram.com/click.ed_it_by_roshaan/
-3. LinkedIn: 
+3. LinkedIn: https://www.linkedin.com/in/roshaan-khan-20f?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 4. Steam: https://steamcommunity.com/profiles/76561198737020683/
 5. Discord: roshaan2024
 6. Gmail: iamroshaan05@gmail.com
