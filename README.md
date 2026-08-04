@@ -64,11 +64,7 @@
   </a>
 </div>
 
-###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=true&text=Thank%20You!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
 
 ###
 
@@ -80,5 +76,13 @@
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/RoshaanK20/RoshaanK20/snake-output/snake.svg" alt="Snake animation" />
+
+
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&reversal=true&text=Thank%20You!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
